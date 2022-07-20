@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ticket
+  - Local Player
+  - Nonlocal Player
+  - Ticket Trigger
+  - EditTable
+  - Straighten Ticket
+  - Button
+  - Spawn Button
+  - Activation Button
+  - playerCamera
+  - Column Blueprint
+  - Column Title
+  - ServerInput
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - playerFace
+  - TicketHeader
+  - Menu(UI)
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
